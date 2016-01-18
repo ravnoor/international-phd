@@ -1,1 +1,3 @@
-http://www.neurocure.de/phd-fellowships.html | Deadline: 10th January 2016
+Award Name                                                | Type          | Deadline
+--------------------------------------------------------- | :-----------: | ---------------------:
+[Neurocure](http://www.neurocure.de/phd-fellowships.html) | PhD Felloship | Deadline: January 10th
